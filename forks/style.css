@@ -1,0 +1,10 @@
+.images li {
+    display: inline-block;
+    width: 40%;
+    margin: 20px 5%;
+}
+
+.images li:hover {
+    position:relative;
+    top:-4px;
+}
